@@ -1,0 +1,4 @@
+w=run,
+s=back,
+a=left,
+d=right
